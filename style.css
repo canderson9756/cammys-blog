@@ -1,0 +1,19 @@
+h1 {
+    text-align: center;
+    background-color: cadetblue;
+}
+
+html{
+    background-color: antiquewhite;
+}
+
+.center-image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 75%;
+}
+
+#home-image-slot {
+    background-color: darkgreen;
+}

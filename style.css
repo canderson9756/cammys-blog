@@ -17,3 +17,29 @@ html{
 #home-image-slot {
     background-color: darkgreen;
 }
+
+nav {
+display: flex;
+justify-content: center;
+background-color: #efefef;
+}
+
+nav ul {
+list-style: none;
+padding: 0;
+margin: 0;
+}
+
+nav li { 
+padding: 10px;
+float: left
+}
+
+nav a {
+color: #000;
+text-decoration: none;
+}
+
+nav li a:hover {
+background-color: beige;
+}
